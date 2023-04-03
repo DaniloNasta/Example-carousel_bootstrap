@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+}
+
+.carousel-indicators-custom button{
+    width: 100px!important;
+    height: 100px;
+    margin-bottom: 5rem!important;
+}
+
+.colCarousel{
+    height: 600px;
+    width: 600px;
+}
+
+.img-col-show{
+    width: 600px;
+    height: 600px;
+}
